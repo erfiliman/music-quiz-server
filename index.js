@@ -183,7 +183,7 @@ io.on('connection', (socket) => {
 
 
 	const startGame = async (roomId, playlist, count, time) => {
-		let idPlaylist = "37i9dQZF1DXdo6A3mWpdWx";
+		let idPlaylist = "4o6ejPEzNaJhbUl9u0Vb3X";
 		rooms.get(roomId).set("countAnswered", 0);
 		let token = await getToken();
 		let total = await getTotal(idPlaylist, token);
