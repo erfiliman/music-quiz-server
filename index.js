@@ -322,7 +322,8 @@ io.on('connection', (socket) => {
 					rooms.get(roomId).set('currentQuestion', {
 						preview: items[0].track.preview_url,
 						name: items[0].track.name,
-						artists: `${items[0].track.artists.map((item) => item.name + " ")}`,
+						artists: `${items[0].track.artists[0].name}`,
+						// artists: `${items[0].track.artists.map((item) => item.name + " ")}`,
 						source: items[0].track.album.name.replace(/ *\([^)]*\) */g, "").replace(/-? Original \w* \w* \w*/ig, "").replace(/ *\[\[^]\]*\) */g, ""),
 						release: items[0].track.album.release_date.replace(/-\d*/ig, "")
 					});
