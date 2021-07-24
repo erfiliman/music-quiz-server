@@ -80,6 +80,18 @@ const playlists = {
 			id: "37i9dQZF1DWXRqgorJj26U",
 		},
 		{
+			name: "Top hits of 2010s",
+			id: "24DKKckhcPEXACdqlYTvdh",
+		},
+		{
+			name: "Russian hits of 2010s",
+			id: "2LDOsJaJF141w9LxJG0pls",
+		},
+		{
+			name: "Russian hits 2021",
+			id: "7lMt7i0RQmjiM8hfZys4SQ",
+		},
+		{
 			name: "Punk Rock Oldschool",
 			id: "3pQrkTD3R14lL9wb6kVEcY",
 		},
@@ -98,6 +110,10 @@ const playlists = {
 			id: "3xDZLZNqwNaNQPl54ol6FW",
 		},
 		{
+			name: "Movie OST",
+			id: "0Sps8Fu7jnNXNutdhNucSS",
+		},
+		{
 			name: "Soundtracks Movies, Series, Video games",
 			id: "5g7bTkO5gXl9i1z2oFa9Ir",
 		},
@@ -112,12 +128,48 @@ const playlists = {
 	],
 	release: [
 		{
-			name: "Most popular alternative Rock",
-			id: "1nC7MMhwYt4CiRuXvQwbxD",
-		},
-		{
 			name: "500 Greatest Songs Of All Time",
 			id: "5Rrf7mqN8uus2AaQQQNdc1",
+		},
+		{
+			name: "Top hits 2020/2021",
+			id: "3EtliZeGzwZqb8nr7r5Zp6",
+		},
+		{
+			name: "All out 00s",
+			id: "37i9dQZF1DX4o1oenSJRJd",
+		},
+		{
+			name: "All out 90s",
+			id: "37i9dQZF1DXbTxeAdrVG2l",
+		},
+		{
+			name: "All out 80s",
+			id: "37i9dQZF1DX4UtSsGT1Sbe",
+		},
+		{
+			name: "Russian Party 80-90s",
+			id: "1k05GHpQUtxAYFX0ROVQDr",
+		},
+		{
+			name: "Russian Party 90-00s",
+			id: "2z8A3KMSgJwii0aw9tlcDg",
+		},
+		{
+			name: "Rock Classics",
+			id: "37i9dQZF1DWXRqgorJj26U",
+		},
+		{
+			name: "Top hits of 2010s",
+			id: "24DKKckhcPEXACdqlYTvdh",
+		},
+		{
+			name: "Russian hits of 2010s",
+			id: "2LDOsJaJF141w9LxJG0pls",
+		},
+		{
+			name: "Russian hits 2021",
+			id: "7lMt7i0RQmjiM8hfZys4SQ",
 		},
 		{
 			name: "Punk Rock Oldschool",
@@ -128,8 +180,8 @@ const playlists = {
 			id: "2cyihP2rQm4u2NrmnGG2KF",
 		},
 		{
-			name: "Best Pop Songs of all Time",
-			id: "6vI3xbpdPYYJmicjBieLcr",
+			name: "Most popular alternative Rock",
+			id: "1nC7MMhwYt4CiRuXvQwbxD",
 		},
 	]
 
