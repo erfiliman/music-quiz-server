@@ -27,7 +27,7 @@ app.use(
 	})
 )
 const rooms = new Map();
-const typeLabel = ["Guess who is the artist of the song", "Guess the name of the song", "Guess where this song comes from", "Guess what year the song was released"];
+const typeLabel = ["Guess Artist", "Guess Song", "Guess Source", "Guess release year"];
 const hints = [
 	{
 		value: "50",
