@@ -62,9 +62,18 @@ const playlists = {
 		{
 			name: "All out 90s",
 			id: "37i9dQZF1DXbTxeAdrVG2l",
-		},	{
+		},
+		{
 			name: "All out 80s",
 			id: "37i9dQZF1DX4UtSsGT1Sbe",
+		},
+		{
+			name: "Russian Party 80-90s",
+			id: "1k05GHpQUtxAYFX0ROVQDr",
+		},
+		{
+			name: "Russian Party 90-00s",
+			id: "2z8A3KMSgJwii0aw9tlcDg",
 		},
 		{
 			name: "Rock Classics",
